@@ -1,0 +1,5 @@
+streamlit==1.15.0  # Replace with your desired version
+openai==0.27.0     # Ensure this line is included
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.0.2
